@@ -87,7 +87,7 @@ Let Ri = Rf = 10 KΩ
 
   **TABULATION:**
 
-  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 14 PM (1)" src="https://github.com/user-attachments/assets/ca3a1858-8896-40ab-9853-1b96f98dbde5" />
+  <img width="790" height="503" alt="image" src="https://github.com/user-attachments/assets/42a1726d-bb0f-460b-b546-ead89e2ade12" />
 
  
 
@@ -108,7 +108,7 @@ Let Ri = Rf = 10 KΩ
 
   **TABULATION:**
 
-  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 15 PM" src="https://github.com/user-attachments/assets/3a069b5d-a9b3-42b1-9ebc-05c15e0645d6" />
+  <img width="832" height="522" alt="image" src="https://github.com/user-attachments/assets/f1451f6f-c48f-45c4-bb23-fbdc2bcd9a77" />
 
 
   **BPF:**
@@ -125,11 +125,12 @@ Let Ri = Rf = 10 KΩ
 
   **TABULATION:**
 
-  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 15 PM (1)" src="https://github.com/user-attachments/assets/2048bb82-85aa-48b8-8bac-a7f35a378ace" />
+   <img width="822" height="447" alt="image" src="https://github.com/user-attachments/assets/7e9801ac-d342-405e-a400-2545d3c3ead9" />
+
 
   **Graph**
 
-  <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 15 PM (3)" src="https://github.com/user-attachments/assets/7365ed79-49e8-4ef3-907e-11c131bbfbea" />
+  <img width="401" height="583" alt="image" src="https://github.com/user-attachments/assets/b14b85d1-f633-4a20-9378-a5b7effd33cb" />
 <img width="900" height="1600" alt="WhatsApp Image 2026-09-13 at 6 25 15 PM (2)" src="https://github.com/user-attachments/assets/4298a9c1-c7f9-4be5-8e2e-43f6f09c9f51" />
 
 
